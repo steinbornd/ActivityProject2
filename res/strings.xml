@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Steinborn Project 2</string>
+    <string name="get_message">Get Message</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Steinborn Project 2</string>
+
+</resources>
